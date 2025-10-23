@@ -1,0 +1,8 @@
+pair_id,real_url,ai_url
+p1,images/real/1.jpg,images/ai/1.jpg
+p2,images/real/2.png,images/ai/2.jpg
+p3,images/real/3.jpg,images/ai/3.jpg
+p4,images/real/4.jpg,images/ai/4.png
+p5,images/real/5.jpg,images/ai/5.jpg
+p6,images/real/6.jpg,images/ai/6.jpg
+p7,images/real/7.jpg,images/ai/7.jpg
